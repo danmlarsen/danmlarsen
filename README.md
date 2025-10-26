@@ -3,7 +3,7 @@
 ### Based in Norway, I’m a web developer passionate about building accessible web apps that users love.
 
 ### Key skills & tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,gatsby,scss,linux,nodejs,docker,nest,postgresql,prisma,mongodb,supabase,aws,jest,vitest&perline=6)](https://github.com/danmlarsen/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,gatsby,scss,linux,nodejs,docker,nest,postgresql,prisma,mongodb,supabase,aws,jest,vitest,reactnative,expo&perline=6)](https://github.com/danmlarsen/)
     
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danmlarsen&theme=tokyonight)]([https://git.io/streak-stats](https://github.com/danmlarsen/))
   
