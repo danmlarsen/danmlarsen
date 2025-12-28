@@ -1,6 +1,6 @@
 ## Hi there, I'm Dan Marius
 
-### Based in Norway, I’m a web developer passionate about building accessible web apps that users love.
+### Based in Norway, I'm a full-stack developer passionate about building accessible, scalable web applications.
 
 ### Key skills & tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,gatsby,scss,linux,nodejs,docker,nest,postgresql,prisma,mongodb,supabase,aws,jest,vitest&perline=6)](https://github.com/danmlarsen/)
